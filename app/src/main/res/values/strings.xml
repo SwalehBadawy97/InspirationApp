@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">InspirationApp</string>
+    <string name="app_bar">Ayat Inspirations</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Al Fatiha: 1</string>
+    <string name="verse1">In the name of Allah, The Most Gracious and The Most Merciful</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">SubhanAllah</string>
+    <string name="verse2">Glory to Allah</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Al Alaq: 1</string>
+    <string name="verse3">Recite in the name of your Lord</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Al Sharh: 4</string>
+    <string name="verse4">And We have exalted for you your reputation</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Al Imran: 159</string>
+    <string name="verse5">Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Yusuf: 76</string>
+    <string name="verse6">But above those ranking in knowledge is the One All-Knowing.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Al Baqarah: 153</string>
+    <string name="verse7">And seek help through patience and praye</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Al Naml: 88</string>
+    <string name="verse8">Such is the creation of Allah, who has fulfilled all things in perfection</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Al Rad: 28</string>
+    <string name="verse9">Verily in the remembrance of Allah Ta`ala do our hearts find peace and comfort</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Al Imran: 103</string>
+    <string name="verse10">And hold firmly together to the rope of Allah1 and do not be divided</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Taha: 114</string>
+    <string name="verse11">And pray, “My Lord! Increase me in knowledge.”</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Al Nahl: 43</string>
+    <string name="verse12">If you do not know then ask those who have knowledge.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Al Imran: 173</string>
+    <string name="verse13">Allah alone is sufficient as an aid for us and He is the best Protector.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Al Dhariyat: 58</string>
+    <string name="verse14">Allah alone is the Supreme Provider —Lord of all Power, Ever Mighty</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Al Qalam: 4</string>
+    <string name="verse15">And you are truly a man of outstanding character</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Al Hijr: 95</string>
+    <string name="verse16">Surely We will be sufficient for you against the mockers</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Ash Shuraa: 11</string>
+    <string name="verse17">There is nothing like Him, for He alone is the All-Hearing, All-Seeing</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">As Sharh: 6</string>
+    <string name="verse18">Surely with that hardship comes more ease.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Al Anbiya: 87</string>
+    <string name="verse19">There is no god worthy of worship except You. Glory be to You! I have certainly done wrong.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Al Nahl: 125</string>
+    <string name="verse20">And only debate with them in the best manner</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Al Baqara: 152</string>
+    <string name="verse21">Remember Me; I will remember you.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Al Tin: 4</string>
+    <string name="verse22">Indeed, We created humans in the best form.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Al Baqara: 137</string>
+    <string name="verse23">But Allah will spare you their evil. For He is the All-Hearing, All-Knowing.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Al Mudathir: 3</string>
+    <string name="verse24">And glorify your Lord</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Ar Rum: 21</string>
+    <string name="verse25">And one of His signs is that He created for you spouses from among yourselves so that you may find comfort in them.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Al Baqara: 186</string>
+    <string name="verse26">When My servants ask you ˹O Prophet˺ about Me: I am truly near.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Adh Dhuhaa: 11</string>
+    <string name="verse27">And proclaim the blessings of your Lord.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">An Nur: 35</string>
+    <string name="verse28">Allah is the Light of the heavens and the earth.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">At Talaq: 6</string>
+    <string name="verse29">And consult among yourselves courtesously</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Al Muminun: 118</string>
+    <string name="verse30">Say, “My Lord! Forgive and have mercy, for You are the best of those who show mercy.”</string>
+
+
+</resources>
